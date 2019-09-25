@@ -10,7 +10,7 @@ import sys
 
 def create_parser():
     """Creates and returns an argparse cmd line option parser"""
-    pass
+    
 
 
 def main(args):
